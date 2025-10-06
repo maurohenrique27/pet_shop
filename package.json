@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "format": "prettier --write .",
-    "validate:typecheck": "tsc--noEmit -skipLibCheck"
+    "validate:typecheck": "tsc --noEmit -skipLibCheck"
   },
   "dependencies": {
     "next": "15.5.4",
