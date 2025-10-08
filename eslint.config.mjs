@@ -20,7 +20,7 @@ const eslintConfig = [
     ],
   },
   {
-    files: ["**/*.{js,jsx,ts,tsx}"],
+    files: ["**/*.{js,jsx,ts,tsx,prisma}"],
     rules: {
       "arrow-body-style": "off",
       "prefer-arrow-callback": "off",
